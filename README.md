@@ -7,7 +7,7 @@
  [![Join our Discord server!](https://sleeping-oars.000webhostapp.com/?invite=8DsczzxU9E)](http://discord.gg/8DsczzxU9E)
 
 ### Usage 
-1. Host the `index.php` on your site.
+1. Host the `index.php` file.
 * Markdown
 ```
 [![Join our Discord server!](https://<YOUR_WEBSITE_URL>?invite=<INVITE_CODE>)](http://discord.gg/<INVITE_CODE>)
