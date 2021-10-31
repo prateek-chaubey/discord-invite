@@ -4,7 +4,7 @@
 
 ### Example 
 
- [![Join our Discord server!](https://sleeping-oars.000webhostapp.com/?invite=8DsczzxU9E)](http://discord.gg/8DsczzxU9E)
+ [![Join our Discord server!](https://discodiwali.000webhostapp.com?invite=8DsczzxU9E)](http://discord.gg/8DsczzxU9E)
 
 ### Usage 
 1. Host the `index.php` file.
